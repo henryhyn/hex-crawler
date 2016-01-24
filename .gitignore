@@ -1,0 +1,4 @@
+hex-crawler-test/src/main/resources/jdbc.properties
+target
+.idea
+*.iml
